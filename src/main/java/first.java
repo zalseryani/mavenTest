@@ -19,7 +19,7 @@ public class first
 
     static void printing()
     {
-        System.out.println("Greetings");
+        System.out.println("Greetings all");
     }
 
 
